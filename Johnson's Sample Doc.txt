@@ -1,2 +1,4 @@
+Python is smart!!
+
 Scala is very good
 Java is also a nice programming language
